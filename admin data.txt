@@ -1,4 +1,6 @@
 admin data.txt
 simmi 
-mini
-456
+456 added
+update
+fill
+add
