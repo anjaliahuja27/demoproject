@@ -1,0 +1,4 @@
+admin data.txt
+simmi 
+mini
+456
