@@ -2,3 +2,4 @@ admin data.txt
 simmi 
 mini
 456
+added
