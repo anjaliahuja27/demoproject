@@ -2,4 +2,3 @@ Employee data.txt
 anjali
 prabhjot
 123
-456
